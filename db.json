@@ -1,0 +1,169 @@
+{
+  "personal_info": {
+    "linked_in_profile": "https://www.linkedin.com/in/levi-goossens-5462b1332/",
+    "github_profile": "https://github.com/LeviGoossensPXL",
+    "picture": "assets/pofile_picture.png",
+    "firstname": "Levi",
+    "lastname": "Goossens",
+    "mobile": "0490259120",
+    "email": "levi.goossens107@gmail.com",
+    "birthday": "10/01/2002",
+    "address": {
+      "street": "Martelarenstraat",
+      "street_number": "34",
+      "postcode": "3970",
+      "city": "Leopoldsburg",
+      "country": "België"
+    }
+  },
+  "studies": [
+    {
+      "id": 4,
+      "title": "Graduaat Programmeren",
+      "type": "Diploma",
+      "start_date": "09/2024",
+      "end_date": "07/2026",
+      "place": "Hogeschool PXL Hasselt",
+      "place_website": "https://www.pxl.be/"
+    },
+    {
+      "id": 3,
+      "title": "TSO 3de graad Secundair onderwijs Elektrische installatietechnieken",
+      "type": "Diploma",
+      "start_date": "09/2018",
+      "end_date": "06/2020",
+      "place": "Secundair Onderwijs PROVIL",
+      "place_website": "https://www.provil.be/"
+    },
+    {
+      "id": 2,
+      "title": "TSO 2de graad Secundair onderwijs Elektrotechnieken",
+      "type": "Getuigschrift",
+      "start_date": "09/2016",
+      "end_date": "06/2018",
+      "place": "Secundair Onderwijs PROVIL",
+      "place_website": "https://www.provil.be/"
+    },
+    {
+      "id": 1,
+      "title": "A 1ste graad Secundair onderwijs Mechanica-elektriciteit",
+      "type": "Getuigschrift",
+      "start_date": "09/2014",
+      "end_date": "06/2016",
+      "place": "Sint-Michiel Middenschool",
+      "place_website": "https://www.sintmichiel.be/"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 5,
+      "website": "https://www.groupceyssens.com/",
+      "company_name": "Group Ceyssens",
+      "job_title": "Operator",
+      "location": "Heusden-Zolder",
+      "start_date": "12/2023",
+      "end_date": "08/2024",
+      "tasks": [
+        "Starten en machines draaiende houden.",
+        "Glass in en uitladen.",
+        "Glass inspecteren, schoonmaken en afkeuren.",
+        "Ramen verder afwerken."
+      ]
+    },
+    {
+      "id": 4,
+      "website": "https://www.melexis.com/",
+      "company_name": "Melexis Technologies NV",
+      "job_title": "Emc-assistant",
+      "location": "Tessenderlo",
+      "start_date": "03/2021",
+      "end_date": "10/2023",
+      "tasks": [
+        "Tests voor EMC op chips en PCB's uitvoeren zowel half-automatisch als manueel.",
+        "Componenten solderen op PCB,'s.",
+        "Verzamelen, verwerken en visualiseren van data verzameld bij Tests.",
+        "Rapporten van testresultaten opstellen aan de hand van data."
+      ]
+    },
+    {
+      "id": 3,
+      "website": "https://www.gielen.be/",
+      "company_name": "Gielen NV",
+      "job_title": "Elektricien",
+      "location": "Lommel",
+      "start_date": "10/2020",
+      "end_date": "01/2021",
+      "tasks": [
+        "Nakijken en herstellen van elektrische installaties en componenten.",
+        "Installeren van stopcontacten, lampen, ethernet en allerlei elektrische componenten.",
+        "Kabels en draden trekken."
+      ]
+    },
+    {
+      "id": 2,
+      "website": "https://www.kempischebordenbouw.be/",
+      "company_name": "Kempische bordenbouw",
+      "job_title": "Elektricien",
+      "location": "Balen",
+      "start_date": "07/2020",
+      "end_date": "08/2020",
+      "tasks": [
+        "Kasten voor borden in elkaar zetten.",
+        "Elektrische schakel borden voorzien van elektrische componenten en bedrading.",
+        "Labelen van componenten en bedrading.",
+        "Borden voorbereiden op transport."
+      ]
+    },
+    {
+      "id": 1,
+      "website": "https://www.elep.be/",
+      "company_name": "Elep",
+      "job_title": "Technieker",
+      "location": "Lommel",
+      "start_date": "10/2019",
+      "end_date": "10/2019",
+      "tasks": [
+        "Vervangen en herstellen van mechanische, elektrische en pneumatische onderdelen.",
+        "Onderhouden van drukmachines.",
+        "Bediening van drukmachines"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project euler",
+      "programming_languages": ["Python", "Java"],
+      "description": "",
+      "link": ""
+    },
+    {
+      "name": "Portfolio in vue",
+      "programming_languages": ["Javascript", "Vue.js", "css"]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "type": "soft",
+      "skill_list": ["Probleem oplossing", "Verantwoordlijk", "Leergierig"]
+    },
+    {
+      "id": 2,
+      "type": "hard",
+      "name": "programmeertalen",
+      "skill_list": ["Python", "Java", "Javascript", "C#", "SQL", "CSS", "HTML"]
+    },
+    {
+      "id": 3,
+      "type": "hard",
+      "name": "elektronica",
+      "skill_list": ["Oscilloscoop", "PLC", "Solderen"]
+    },
+    {
+      "id": 4,
+      "type": "hard",
+      "name": "software tools",
+      "skill_list": ["Github", "Jira", "Confluence"]
+    }
+  ]
+}
