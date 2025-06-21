@@ -8,7 +8,7 @@ defineProps({
   <div>
     <h2>{{ study.title }}</h2>
     <p>{{ study.type }}</p>
-    <a :href="study.place_website" target="_blank">{{ study.place }}</a>
+    <p><a :href="study.place_website" target="_blank">{{ study.place }}</a> | {{ study.location }}</p>
     <p>{{ study.start_date }} - {{ study.end_date }}</p>
   </div>
 </template>

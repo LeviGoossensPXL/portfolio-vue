@@ -23,7 +23,8 @@
       "type": "Diploma",
       "start_date": "09/2024",
       "end_date": "07/2026",
-      "place": "Hogeschool PXL Hasselt",
+      "place": "Hogeschool PXL",
+      "location": "Hasselt",
       "place_website": "https://www.pxl.be/"
     },
     {
@@ -33,6 +34,7 @@
       "start_date": "09/2018",
       "end_date": "06/2020",
       "place": "Secundair Onderwijs PROVIL",
+      "location": "Lommel",
       "place_website": "https://www.provil.be/"
     },
     {
@@ -42,6 +44,7 @@
       "start_date": "09/2016",
       "end_date": "06/2018",
       "place": "Secundair Onderwijs PROVIL",
+      "location": "Lommel",
       "place_website": "https://www.provil.be/"
     },
     {
@@ -51,6 +54,7 @@
       "start_date": "09/2014",
       "end_date": "06/2016",
       "place": "Sint-Michiel Middenschool",
+      "location": "Leopoldsburg",
       "place_website": "https://www.sintmichiel.be/"
     }
   ],
