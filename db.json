@@ -160,14 +160,14 @@
     {
       "id": 3,
       "type": "hard",
-      "name": "elektronica",
-      "skill_list": ["Oscilloscoop", "PLC", "Solderen"]
+      "name": "software tools",
+      "skill_list": ["Github", "Jira", "Confluence"]
     },
     {
       "id": 4,
       "type": "hard",
-      "name": "software tools",
-      "skill_list": ["Github", "Jira", "Confluence"]
+      "name": "elektronica",
+      "skill_list": ["Oscilloscoop", "PLC", "Solderen"]
     }
   ]
 }
