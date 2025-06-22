@@ -7,7 +7,7 @@
     "lastname": "Goossens",
     "mobile": "0490259120",
     "email": "levi.goossens107@gmail.com",
-    "birthday": "10/01/2002",
+    "birthday": "2002-01-10",
     "address": {
       "street": "Martelarenstraat",
       "street_number": "34",
@@ -135,12 +135,14 @@
   ],
   "projects": [
     {
+      "id": 1,
       "name": "Project euler",
       "programming_languages": ["Python", "Java"],
       "description": "",
       "link": ""
     },
     {
+      "id": 1,
       "name": "Portfolio in vue",
       "programming_languages": ["Javascript", "Vue.js", "css"]
     }
