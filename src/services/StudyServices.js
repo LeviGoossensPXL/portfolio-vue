@@ -1,12 +1,12 @@
 "use strict"
 
 function getStudyById(id) {
-    return fetch(`http://localhost:3000/studies/${id}`)
+    return fetch(`http://localhost/api/studies/${id}`)
         .then((response) => response.json());
 }
 
 function getStudies() {
-    return fetch(`http://localhost:3000/studies`)
+    return fetch(`http://localhost/api/studies`)
         .then((response) => response.json());
 }
 

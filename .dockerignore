@@ -1,0 +1,18 @@
+# Node Project
+node_modules
+dist
+
+# Code Editor
+.idea
+.vscode
+
+# Git
+.gitignore
+.git
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Environment
+*.env

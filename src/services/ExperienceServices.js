@@ -1,12 +1,12 @@
 "use strict"
 
 function getExperienceById(id) {
-    return fetch(`http://localhost:3000/experiences/${id}`)
+    return fetch(`http://localhost/api/experiences/${id}`)
         .then((response) => response.json());
 }
 
 function getExperiences() {
-    return fetch(`http://localhost:3000/experiences`)
+    return fetch(`http://localhost/api/experiences`)
         .then((response) => response.json());
 }
 
